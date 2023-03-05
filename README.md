@@ -1,7 +1,7 @@
-## ASP.Net MVC Exercise 5
+## ASP.Net Core MVC 
 
 ### Objective
-Create an ASP.Net MVC application and implement CRUD operations in database using Entity Framework.
+Create an ASP.Net MVC application .
 
 ### Problem Statement
 * As a member of the development team at GlobalIT, you have developed a Web application for GadgetWorld, which consists of the following views:
@@ -49,13 +49,3 @@ Now, you need to help your teammates to accomplish the preceding task.
 * Create required views.
 * Execute the application and verify the output.
 
-## Submitting Solution
-1. Once the solution is ready push the code to git following the below steps :
-    * Add `gitignore` file in your project before pushing the code on gitlab.
-    * Create new project on git with the name `exercise5-solution`
-    * On local machine in the folder where your solution code resides, run the command `git remote add origin <project-repo-url>`
-    * To Stage files for commit, run the command `git add .`
-    * To commit files, run the command `git commit -m '<commit-msg>'`
-    * Finally to push the code, run the command `git push -u origin master`
-
-2. Assign your Mentor as the Reporter for this git repo and notify him/her for the evaluation
